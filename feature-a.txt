@@ -1,3 +1,5 @@
 Feature A
-Status: Completed
-Developer: Dhanushka
+Status: Completed and Reviewed
+Developer: Dhanushka and Akila
+
+
